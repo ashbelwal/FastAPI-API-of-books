@@ -1,0 +1,41 @@
+book =[
+    {   "id":1,
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "publisher": "No Starch Press",
+        "published_date": "2019-05-03",
+        "page_count": 544,
+        "language": "en"
+    },
+    {   "id":2,
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "publisher": "No Starch Press",
+        "published_date": "2019-11-12",
+        "page_count": 592,
+        "language": "en"
+    },
+   {   "id":3,
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "publisher": "O'Reilly Media",
+        "published_date": "2015-08-20",
+        "page_count": 792,
+        "language": "en"
+    },
+    {   "id":4,
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "publisher": "Addison-Wesley Professional",
+        "published_date": "2015-03-01",
+        "page_count": 256,
+        "language": "en"
+    },
+    {   "id":5,
+        "title": "Python Cookbook",
+        "author": "David Beazley and Brian K. Jones",
+        "publisher": "O'Reilly Media",
+        "published_date": "2013-05-10",
+        "page_count": 706,
+        "language": "en"
+    }] 
